@@ -1,16 +1,5 @@
 # final_project_equip
 
-A new Flutter project.
+Currently developing the app using Flutter; designs created in Figma linked below. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.figma.com/design/dNxrJg20raus9Fokcfhtc2/Equip---ITP368?node-id=0-1&t=Jb9jRhH5j8maA9Ns-1
